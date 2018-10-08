@@ -3,13 +3,13 @@
 
 >  游戏截图
 <br>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/0.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/1.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/2.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/3.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/4.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/5.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/6.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/7.png" width="631px" height="475px"/>
-<img src="https://github.com/macosunity/NewSwordHTML/raw/master/screenshots/8.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/0.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/1.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/2.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/3.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/4.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/5.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/6.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/7.png" width="631px" height="475px"/>
+<img src="https://github.com/eson-sheng/NewSwordHTML/raw/master/screenshots/8.png" width="631px" height="475px"/>
 
